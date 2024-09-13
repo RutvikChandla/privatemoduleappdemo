@@ -1,6 +1,6 @@
 # Private Module Demo
 
-This is a demo repo for showing how to use private module in browserstack
+This is a demo repo for showing how to use private module with browserstack cypress
 
 ## Setup
 
