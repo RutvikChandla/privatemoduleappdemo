@@ -4,8 +4,9 @@ This is a demo repo for showing how to use private module with browserstack cypr
 
 ## Setup
 
-1. Ask automate team for github token
-2. Add token in .npmrc file
+1. Ask automate team for github token, for this repo to work.
+2. Replace token in .npmrc file
+3. Replace browserstack creds in browserstack.json
 
 ```bash
 npm install
