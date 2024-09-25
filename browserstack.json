@@ -22,6 +22,7 @@
           "@RutvikChandla/my-github-package": "^1.0.0",
           "browserstack-cypress-cli": "^1.31.6",
           "cypress": "^13.14.2",
+          "express": "^4.21.0",
           "start-server-and-test": "^2.0.7"
         },
         "package_config_options": {},

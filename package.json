@@ -7,7 +7,8 @@
   },
   "dependencies": {
     "@RutvikChandla/my-github-package": "^1.0.0",
-    "browserstack-cypress-cli": "^1.31.6"
+    "browserstack-cypress-cli": "^1.31.6",
+    "express": "^4.21.0"
   },
   "devDependencies": {
     "cypress": "^13.14.2",
